@@ -1,4 +1,4 @@
-# Intelligence Agency Blocker modding utility by Yard1 (HoI4 Modding Coop resource).
+# Intelligence Agency Blocker modding utility
 
 Hearts of Iron 4 modding resource, allowing to block the creation of La Resistance Intelligence Agencies unless conditions are met.
 
